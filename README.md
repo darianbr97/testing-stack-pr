@@ -7,3 +7,6 @@ Creation view
 Detail view
 hola que talasdf
 ...
+
+Edition view
+...
