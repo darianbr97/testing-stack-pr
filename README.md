@@ -6,3 +6,6 @@ Creation view
 
 Detail view - testing
 ...
+
+Edit view
+...
