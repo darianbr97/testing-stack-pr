@@ -4,7 +4,7 @@ que tal?
 Renovate Creation view
 ...
 
-Detail view - testing
+Renovate Detail view - testing
 ...
 
 Edit view
