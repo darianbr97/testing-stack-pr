@@ -7,7 +7,7 @@ Renovate Creation view
 Renovate Detail view - testing
 ...
 
-Edit view
+Renovate Edit view
 ...
 
 Convert view - testing
