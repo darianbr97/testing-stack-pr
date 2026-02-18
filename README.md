@@ -15,3 +15,5 @@ Convert view - testing
 
 Random view
 ...
+
+Tests e2e
